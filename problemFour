@@ -1,0 +1,10 @@
+// Write a function that takes a number parameter and returns the
+// smallest palindrome number higher than the parameter
+
+// nextPal(11) == 22
+
+// nextPal(188) == 191
+
+// nextPal(191) == 202
+
+// nextPal(2541) == 2552
