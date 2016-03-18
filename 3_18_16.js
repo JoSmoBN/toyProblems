@@ -18,6 +18,7 @@ function flatten(...args) {
       returnArray.push(args[i])
     }
   }
+  return returnArray
 }
 
 
